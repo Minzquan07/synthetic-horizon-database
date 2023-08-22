@@ -35,7 +35,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "better-sqlite3": "7.4.5",
+    "better-sqlite3": "^8.5.1",
     "lodash": "latest",
     "node-fetch": "2.6.0",
     "sqlite": "4.0.21",
