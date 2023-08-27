@@ -35,11 +35,11 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "better-sqlite3": "^8.5.1",
+    "better-sqlite3": "",
     "lodash": "latest",
-    "node-fetch": "2.6.0",
-    "sqlite": "4.0.21",
-    "sqlite3": "5.0.3"
+    "node-fetch": "",
+    "sqlite": "",
+    "sqlite3": ""
   },
   "deprecated": false,
   "description": "Database tổng hợp ngắn gọn cho Fca-Horizon-Remake",
